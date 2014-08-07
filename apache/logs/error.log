@@ -1,0 +1,17 @@
+[Sun May 13 13:01:14 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun May 13 13:01:14 2012] [notice] Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/0.9.8x configured -- resuming normal operations
+[Sun May 13 13:01:14 2012] [notice] Server built: May 13 2012 12:51:11
+[Sun May 13 13:01:14 2012] [notice] Parent: Created child process 3660
+Apache server interrupted...
+arn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun May 13 13:01:15 2012] [notice] Child 3660: Child process is running
+[Sun May 13 13:01:15 2012] [notice] Child 3660: Acquired the start mutex.
+[Sun May 13 13:01:15 2012] [notice] Child 3660: Starting 64 worker threads.
+[Sun May 13 13:01:15 2012] [notice] Child 3660: Starting thread to listen on port 80.
+[Sun May 13 13:01:15 2012] [notice] Child 3660: Starting thread to listen on port 80.
+[Sun May 13 13:01:28 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 13 13:01:28 2012] [notice] Child 3660: Exit event signaled. Child process is ending.
+[Sun May 13 13:01:29 2012] [notice] Child 3660: Released the start mutex
+[Sun May 13 13:01:30 2012] [notice] Child 3660: All worker threads have exited.
+[Sun May 13 13:01:30 2012] [notice] Child 3660: Child process is exiting
+[Sun May 13 13:01:30 2012] [notice] Parent: Child process exited successfully.
