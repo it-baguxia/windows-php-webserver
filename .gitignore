@@ -1,0 +1,5 @@
+htdocs/
+mysql/data/
+mysql/data/
+mysql/data/*
+logs/*
